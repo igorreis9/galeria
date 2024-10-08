@@ -13,7 +13,7 @@ body{
 .galeria{
     margin: 0;
     display: flex;
-    height: 90vh;
+    height: 80vh;
     gap: 0px;
 }
 
